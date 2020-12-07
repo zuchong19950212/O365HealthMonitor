@@ -3,7 +3,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <AzureFunctionsVersion>v2</AzureFunctionsVersion>
     <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>O365HealthMonitor.pfx</AssemblyOriginatorKeyFile>
+   
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.29" />
